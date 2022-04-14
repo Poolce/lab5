@@ -1,0 +1,15 @@
+﻿  Convertex.cpp
+  Main.cpp
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(267,13): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(284,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(285,10): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(308,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(309,10): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(332,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list\TPolynom.h(333,10): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list-form\MainForm.h(207,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Temp\mp2-lab5-list\mp2-lab5-list-form\MainForm.h(218,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Convertex.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  mp2-lab5-list-form.vcxproj -> C:\Temp\mp2-lab5-list\x64\Debug\mp2-lab5-list-form.exe

@@ -1,0 +1,4 @@
+C:\Temp\mp2-lab5-list\mp2-lab5-list-form\x64\Debug\mp2-lab5-list-form.vcxproj.AssemblyReference.cache
+C:\Temp\mp2-lab5-list\mp2-lab5-list-form\x64\Debug\mp2-lab5-list-form.vcxproj.SuggestedBindingRedirects.cache
+C:\Temp\mp2-lab5-list\mp2-lab5-list-form\x64\Debug\mp2lab5listform.MainForm.resources
+C:\Temp\mp2-lab5-list\mp2-lab5-list-form\x64\Debug\mp2-lab5-list-form.vcxproj.GenerateResource.cache
